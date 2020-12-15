@@ -43,3 +43,14 @@ h1 {
     font-weight: bold;
     color: brown;
 }
+
+@media screen and (max-width: 1000px){
+    #button {
+        margin-left: 40%;
+    }
+    h1 {
+        width: 40%;
+
+    }
+
+}
