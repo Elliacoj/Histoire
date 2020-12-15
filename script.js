@@ -27,7 +27,6 @@ button.addEventListener("click", function () {
             case "a":
                 if(four === "au lac") {
                     second = verbs[random(verbs.length)];
-                    console.log(second);
                     test();
                 }
                 break;
