@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 100%;
+    background-color: aqua;
+}
+
+h1 {
+    width: 25%;
+    font-size: 3rem;
+    text-align: center;
+    font-style: italic;
+    margin: 5% auto auto;
+    border: 2px solid black;
+    border-radius: 30px;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: white;
+    color: brown;
+}
+
+#story {
+    width: 70%;
+    margin: 5% auto auto;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+#button {
+    padding: 1%;
+    margin-top: 5%;
+    margin-left: 45% ;
+    border-color: black;
+    border-radius: 30px;
+    font-weight: bold;
+    color: brown;
+}
